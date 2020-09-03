@@ -21,7 +21,3 @@ Neste desafios nós vamos explorar:
 * Estatística
 * Testes de hipóteses
 * Testes A/B
-
-```bash
-$ deactivate
-```
