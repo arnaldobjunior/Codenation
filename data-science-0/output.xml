@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="3" hostname="DESKTOP-R4K1GPS" name="pytest" skipped="0" tests="10" time="2.037" timestamp="2020-06-25T16:04:21.153619"><testcase classname="test_submit" file="test_submit.py" line="3" name="test_q1" time="0.002"></testcase><testcase classname="test_submit" file="test_submit.py" line="9" name="test_q2" time="0.082"></testcase><testcase classname="test_submit" file="test_submit.py" line="15" name="test_q3" time="0.008"></testcase><testcase classname="test_submit" file="test_submit.py" line="21" name="test_q4" time="0.030"><failure message="assert 531686 == 3
+  -531686
+  +3">E   assert 531686 == 3
+      -531686
+      +3</failure></testcase><testcase classname="test_submit" file="test_submit.py" line="27" name="test_q5" time="0.140"></testcase><testcase classname="test_submit" file="test_submit.py" line="33" name="test_q6" time="0.124"></testcase><testcase classname="test_submit" file="test_submit.py" line="39" name="test_q7" time="0.010"></testcase><testcase classname="test_submit" file="test_submit.py" line="45" name="test_q8" time="0.516"></testcase><testcase classname="test_submit" file="test_submit.py" line="51" name="test_q9" time="0.020"><failure message="assert 3 == 348631
+  -3
+  +348631">E   assert 3 == 348631
+      -3
+      +348631</failure></testcase><testcase classname="test_submit" file="test_submit.py" line="57" name="test_q10" time="0.013"><failure message="assert False">E   assert False</failure></testcase></testsuite></testsuites>
