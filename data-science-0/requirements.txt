@@ -36,7 +36,7 @@ cachetools==4.1.0
 catalogue==1.0.0
 catboost==0.20.2
 category-encoders==2.2.2
-certifi==2019.11.28
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 chart-studio==1.1.0
